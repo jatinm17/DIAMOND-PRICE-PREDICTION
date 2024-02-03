@@ -1,0 +1,2 @@
+[ 2024-02-04 02:19:45,828 ] 20 root - INFO - Data Ingestion method starts
+[ 2024-02-04 02:19:45,829 ] 45 root - ERROR - Error occurred in Data Ingestion config: [Errno 2] No such file or directory: 'notebooks/data\\gemstone.csv'

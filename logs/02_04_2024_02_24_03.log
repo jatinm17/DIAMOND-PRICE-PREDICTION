@@ -1,0 +1,5 @@
+[ 2024-02-04 02:24:04,908 ] 32 root - INFO - Data Ingestion method starts
+[ 2024-02-04 02:24:04,908 ] 59 root - ERROR - Error occurred in Data Ingestion: [Errno 2] No such file or directory: 'notebooks/data\\gemstone.csv'
+[ 2024-02-04 02:24:04,908 ] 68 root - ERROR - CustomException: Error occurred in Data Ingestion: [Errno 2] No such file or directory: 'notebooks/data\\gemstone.csv'
+[ 2024-02-04 02:24:04,908 ] 32 root - INFO - Data Ingestion method starts
+[ 2024-02-04 02:24:04,909 ] 59 root - ERROR - Error occurred in Data Ingestion: [Errno 2] No such file or directory: 'notebooks/data\\gemstone.csv'

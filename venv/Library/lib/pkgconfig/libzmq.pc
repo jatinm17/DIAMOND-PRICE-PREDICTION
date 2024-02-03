@@ -1,0 +1,12 @@
+prefix=C:/ML Project Pw/DIAMOND PRICE PREDICTION/venv/Library
+exec_prefix=C:/ML Project Pw/DIAMOND PRICE PREDICTION/venv/Library
+libdir=C:/ML Project Pw/DIAMOND PRICE PREDICTION/venv/Library/lib
+includedir=C:/ML Project Pw/DIAMOND PRICE PREDICTION/venv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: -lstdc++ 
+Requires.private: 
+Cflags: -I${includedir} 
